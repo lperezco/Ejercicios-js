@@ -1,1 +1,1 @@
-# Ejercicios-js
+# Ejercicios-js LPC
